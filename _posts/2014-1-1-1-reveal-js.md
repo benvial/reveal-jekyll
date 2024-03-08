@@ -3,10 +3,14 @@ layout: slide
 title: ""
 ---
 
-# [Reveal.js](http://lab.hakim.se/reveal-js/){: .external}
 
-## HTML Presentations Made Easy
+<div class="stretch" style="position:relative;">
+<iframe
+  src="http://bvial.info/jlite/repl/?kernel=python&code=import numpy as np&code=import matplotlib.pyplot as plt&code=plt.style.use('matplotlib/base.mplstyle')"
+  height="100%"
+  width="100%"
+>
+</iframe>
 
-#### Created by [Hakim El Hattab](http://hakim.se){: .external} / [@hakimel](http://twitter.com/hakimel){: .twitter}
+</div>
 
-Remixed by [Thomas Friese](http://tasmo.rocks/){: .external} / [@_Tasmo](http://twitter.com/_Tasmo){: .twitter}
